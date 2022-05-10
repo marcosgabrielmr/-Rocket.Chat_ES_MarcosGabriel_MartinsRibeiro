@@ -3,7 +3,7 @@ Rocket.Chat Technical Test
 
 TOKEN: sqQQaMdyFasuom3-doJL8koWZQvuXdjltQGjeaSs8VA
 
-ID-USERM: j49QmA8tadgXuvKf
+ID-USER: j49QmA8tadgXuvKf
 
 Question 1 - 
 
